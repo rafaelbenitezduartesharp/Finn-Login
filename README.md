@@ -10,4 +10,4 @@ Espero que gostem deste projeto! Sintam-se à vontade para explorar e personaliz
 
 Agradeço a todos por conferirem este código. Divirtam-se!
 
-Atenciosamente,Rafael Benitez Duarte![Captura da Web_4-7-2023_213952_](https://github.com/rafaelbenitezduartesharp/Finn-Login/assets/109101648/b04efef0-2497-4ad4-aa66-d6fc465e8b8d)
+Atenciosamente @Rafael Benitez Duarte![Captura da Web_4-7-2023_213952_](https://github.com/rafaelbenitezduartesharp/Finn-Login/assets/109101648/b04efef0-2497-4ad4-aa66-d6fc465e8b8d)
